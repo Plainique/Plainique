@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jackets - My Fashion Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Jackets</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="categories.html">Categories</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="products">
+        <h2>Our Jackets Collection</h2>
+        <div class="product-card">
+            <img src="https://i.pinimg.com/736x/ca/48/a2/ca48a267fa7629efdbf284ed9e34df5d.jpg" alt="Jacket Girl" width="300" height="300">
+            <h3>Stylish Jacket</h3>
+        </div>
+        <!-- Add more products here -->
+    </section>
+    <footer>
+        <p>© 2024 My Fashion Store</p>
+    </footer>
+</body>
+</html>
